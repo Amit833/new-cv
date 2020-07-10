@@ -16,5 +16,5 @@
 
 [internet link](https://blog.plover.com/prog/git-ff-error.html)
 
-![internal link](pics/images.jpeg)
+![internal link](home/dci/Desktop/pics/images.jpeg)
 
